@@ -1,1 +1,1 @@
-print("all")
+print("aln nml")
